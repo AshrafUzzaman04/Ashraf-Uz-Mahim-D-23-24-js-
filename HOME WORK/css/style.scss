@@ -1,0 +1,12 @@
+.linkClass {
+  color: red;
+  &:hover {
+    text-decoration: none;
+  }
+}
+.linkClassblue {
+  color: rgb(0, 109, 252);
+  &:hover {
+    text-decoration: none;
+  }
+}

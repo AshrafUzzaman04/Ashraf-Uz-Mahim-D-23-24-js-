@@ -11,7 +11,7 @@ if (x != y && x < y) {
 
 // ------------- ---  --- -------------
 
-let age = -20;
+let age = 20;
 
 if (age <= 17 && age >= 1) {
   console.log("You are a child.");

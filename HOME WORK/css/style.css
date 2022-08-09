@@ -1,1 +1,13 @@
-/*# sourceMappingURL=style.css.map */
+.linkClass {
+  color: red;
+}
+.linkClass:hover {
+  text-decoration: none;
+}
+
+.linkClassblue {
+  color: rgb(0, 109, 252);
+}
+.linkClassblue:hover {
+  text-decoration: none;
+}/*# sourceMappingURL=style.css.map */
