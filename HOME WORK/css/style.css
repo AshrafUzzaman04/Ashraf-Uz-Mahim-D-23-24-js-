@@ -11,6 +11,7 @@ body {
 }
 .linkClass:hover {
   text-decoration: none;
+  color: red;
 }
 
 .linkClassblue {
