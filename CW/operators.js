@@ -15,6 +15,7 @@
  * /=
  * %=
  * *=
+ * **=
  */
 
 // increment decrement operators (বৃদ্ধি, হ্রাস অপারেটর)
